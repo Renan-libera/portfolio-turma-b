@@ -8,3 +8,5 @@ teste github
 07/06 - Envio dos arquivos iniciais do projeto, foi alocado no projeto os arquivos do Bootstrap e jQuery.
 
 07/06 - Configurar nosso repositório para que ele se torne uma GitPage.
+
+14/06 - iniciaremos a criacao do nosso portifolio digital, para apresentacao do nosso trabalho.
