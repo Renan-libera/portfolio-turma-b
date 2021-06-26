@@ -1,16 +1,16 @@
 body {
-    overflow: hidden;
+    overflow: auto;
 }
 
 .bg-Renan-Henrique {
     background: linear-gradient(to bottom, #81ecec, #00cec9);
-    height: 100vh;
+    height: 120vh;
 }
 
-.mt-n2 {
-    margin-top: -1rem;
+.mt-n4 {
+    margin-top: -0.09rem;
 }
 
-h1 {
+h1, h2, h3, h4, h5 {
     font-family: 'Roboto Mono', monospace;
 }
